@@ -46,6 +46,18 @@
   
 </div>
 <br><br><br>
+
+<!-- REPOSITORY -->
+<div align="center" width="100">
+    <h1>Repositories</h1>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=e2-projects&repo=my-portfolio" alt="Portfolio SPA">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=e2-projects&repo=portfolio-api" alt="Portfolio API">&nbsp;&nbsp;&nbsp;&nbsp;
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=e2-projects&repo=neu-style" alt="Portfolio SPA">&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=e2-projects&repo=rest-poc" alt="Portfolio API">&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br><br>
+
 <!-- STATS -->
 <div align="center" width="100">
   <h1>Statistic</h1>
