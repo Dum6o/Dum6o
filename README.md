@@ -3,50 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" />
 </div>
 
-<div>
-  <h1>About</h1>
-  <img
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
-    alt="Profile Views">
-  </br>
-  <a href="https://www.linkedin.com/in/edvardasjusius/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
-      alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/e2.edas/">
-    <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
-      alt="LinkedIn">
-  </a>
-  <a href="https://stackoverflow.com/users/5272951/dumbo">
-    <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
-      alt="LinkedIn">
-  </a>
-
-  </br>
-
-  <p>
-    Hi,
-    </br>
-    I am experienced full-stack software developer working at <img src="https://cdn-assets-eu.frontify.com/s3/frontify-enterprise-files-eu/eyJwYXRoIjoidGVsaWFcL2ZpbGVcL0ZVZDhiaFpYUVA3dXdjb3VzcFhOLnBuZyJ9:telia:XxEQWx4EbD8wazXj6q4RC0k14zFYPGvogsXRo8XZ5Vw?width=100" alt="Telia Company">.
-    </br>
-    Highly skilled in Java, JavaScript, SQL development languages and Spring-boot, Angular, Liquibase frameworks.
-    </br>
-    During free time practicing web applications or Android apps development and 3D printing.
-  </p>
-</div>
-
-</br>
-</br>
-
-<!-- LANGUAGES -->
+<!-- STACK -->
 <div align="center" width="100">
   <h1>Stack</h1>
   
@@ -89,8 +46,8 @@
     alt="sass">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-  <!-- FRAMEWORKS -->
-
+  <!-- Frameworks -->
+  </br>
   <h3>Frameworks</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg"
@@ -158,6 +115,7 @@
   
   <!-- Storages -->
 
+  </br>
   <h3>Storages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg"
@@ -177,6 +135,7 @@
   
   <!-- Tools -->
 
+  </br>
   <h3>Tools</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"
@@ -258,6 +217,36 @@
   <img
     src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="Dum6o GitHub Awards">
+</div>
+
+<div align="center">
+  </br>
+  <a href="https://www.linkedin.com/in/edvardasjusius/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
+      alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/e2.edas/">
+    <img
+      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
+      alt="LinkedIn">
+  </a>
+  <a href="https://stackoverflow.com/users/5272951/dumbo">
+    <img
+      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
+      alt="LinkedIn">
+  </a>
+
+  </br>
+
+  <img
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
+    alt="Profile Views">
 </div>
 
 <!-- FOOTER -->
