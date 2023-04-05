@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=250&section=header&text=Edvardas%20Jusius%20(Dum6o)&fontSize=30&type=waving&fontColor=fefefe&&animation=fadeIn"
+  alt="header"/>
 </div>
 
 <!-- STACK -->
@@ -8,7 +9,7 @@
   <h1>Stack</h1>
   
   <!-- Languages -->
-
+  </br>
   <h3>Languages</h3>
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
@@ -114,7 +115,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Storages -->
-
   </br>
   <h3>Storages</h3>
   <img
@@ -134,7 +134,6 @@
     &nbsp;&nbsp;&nbsp;&nbsp;
   
   <!-- Tools -->
-
   </br>
   <h3>Tools</h3>
   <img
@@ -163,7 +162,7 @@
     alt="Docker">
     &nbsp;&nbsp;&nbsp;&nbsp;
   
-</br>
+  </br>
   
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg"
@@ -251,7 +250,8 @@
 
 <!-- FOOTER -->
 <div align="center" width="100">
-  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe" />
+  <img src="https://capsule-render.vercel.app/api?color=0:1408d0,50:0860d0,100:08c4d0&height=100&section=footer&fontSize=30&type=waving&fontColor=fefefe"
+  alt="footer" />
 </div>
 
 <!--
