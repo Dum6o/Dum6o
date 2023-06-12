@@ -209,7 +209,7 @@
   
   <a href="https://stackoverflow.com/users/5272951/dumbo">
       <img
-        src="https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light"
+        src="[https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light](https://stackoverflow-card.vercel.app/?userID=5272951)"
         alt="Dumbo StackOverflow">
   </a>
   </br>
