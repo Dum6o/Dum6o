@@ -206,10 +206,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
     alt="Dum6o GitHub Stats">
-  
+    
   <a href="https://stackoverflow.com/users/5272951/dumbo">
       <img
-        src="[https://stackoverflow-card.vercel.app/?userID=5272951&theme=stackoverflow-light](https://stackoverflow-card.vercel.app/?userID=5272951)"
+        src="https://stackoverflow-card.vercel.app/?userID=5272951"
         alt="Dumbo StackOverflow">
   </a>
   </br>
