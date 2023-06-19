@@ -132,7 +132,6 @@
     width="60px"
     alt="Firebase">
     &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg"
     width="60px"
