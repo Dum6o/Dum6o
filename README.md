@@ -231,11 +231,6 @@
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
       alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/e2.edas/">
-    <img
-      src="https://img.shields.io/badge/Instagram--_.svg?style=social&logo=instagram"
-      alt="LinkedIn">
-  </a>
   <a href="https://stackoverflow.com/users/5272951/dumbo">
     <img
       src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
