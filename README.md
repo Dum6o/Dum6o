@@ -137,6 +137,11 @@
     width="60px"
     alt="MongoDB">
     &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg"
+    width="60px"
+    alt="Redis">
+    &nbsp;&nbsp;&nbsp;&nbsp;
     
   
   <!-- Tools -->
