@@ -61,7 +61,7 @@
     alt="Apache Kafka">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original-wordmark.svg"
     width="60px"
     alt="Gradle">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -104,7 +104,7 @@
     alt="Jasmine">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-plain-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jasmine/jasmine-original-wordmark.svg"
     width="60px"
     alt="Jasmine">
     &nbsp;&nbsp;&nbsp;&nbsp;
@@ -263,7 +263,7 @@
 <!--
 USED:
 1. Markdown: https://github.github.com/gfm/
-2. Icons: https://github.com/devicons/devicon/tree/v2.14.0/icons
+2. Icons: https://github.com/devicons/devicon/tree/v2.16.0/icons
 3. Header/Footer: https://github.com/kyechan99/capsule-render
 4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
 5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
