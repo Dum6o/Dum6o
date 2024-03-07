@@ -209,7 +209,7 @@
 
 <!-- STATS -->
 <div align="center" width="100">
-  <h1>Statistic</h1>
+  <h1>Statistics</h1>
     <img
       src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
       alt="Dum6o GitHub Streak">
@@ -223,6 +223,11 @@
         src="https://stackoverflow-card.vercel.app/?userID=5272951"
         alt="Dumbo StackOverflow">
   </a>
+
+  <br>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dum6o&theme=transparent&hide_border=true" alt="github-profile-summary"/>
+  
   </br>
   <img
     src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
