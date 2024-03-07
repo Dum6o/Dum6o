@@ -280,6 +280,10 @@
   <img
     src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Dum6o/&title=Profile%20Views"
     alt="Profile Views">
+
+  <br>
+
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217pjpidwuajatg6niznkwubi&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=217pjpidwuajatg6niznkwubi&redirect=true)
 </div>
 
 <!-- FOOTER -->
