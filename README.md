@@ -6,7 +6,9 @@
 
 <!-- STACK -->
 <div align="center" width="100">
-  <h1>Stack</h1>
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:6861e3,100:7fd9e0&text=Stack&reversal=false&fontColor=000000&fontSize=50"
+    alt="Stack"/>
   
   <!-- Languages -->
   </br>
@@ -205,15 +207,30 @@
 
 </br>
 </br>
+
+<div align="center" width="100">
+  <img
+    src="https://capsule-render.vercel.app/api?type=cylinder&height=5&color=0:6861e3,100:7fd9e0&reversal=false&fontColor=000000&fontSize=50&textBg=false"
+    alt="line"/>
+</div>
+
 </br>
 
 <!-- STATS -->
 <div align="center" width="100">
-  <h1>Statistics</h1>
-    <img
-      src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
-      alt="Dum6o GitHub Streak">
+  
+  <img 
+    src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:6861e3,100:7fd9e0&text=Statistics&reversal=false&fontColor=000000&fontSize=50"   
+    alt="statistics"/>
+  
   </br>
+
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=Dum6o&theme=tokyonight&hide_border=true&date_format=%5BY%20%5DM%20j&background=FFFFFF&currStreakNum=71A5FD&currStreakLabel=71A5FD&dates=61D9E1"
+    alt="Dum6o GitHub Streak">
+    
+  </br>
+  
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
     alt="Dum6o GitHub Stats">
@@ -226,9 +243,12 @@
 
   <br>
   
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dum6o&theme=transparent&hide_border=true" alt="github-profile-summary"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dum6o&theme=transparent&hide_border=true"
+    alt="github-profile-summary"/>
   
   </br>
+  
   <img
     src="https://github-profile-trophy.vercel.app/?username=Dum6o&margin-w=15&margin-h=15&no-bg=true&no-frame=true"
     alt="Dum6o GitHub Awards">
@@ -236,16 +256,19 @@
 
 <div align="center">
   </br>
+  
   <a href="https://www.linkedin.com/in/edvardasjusius/">
     <img
       src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
       alt="LinkedIn">
   </a>
+  
   <a href="https://stackoverflow.com/users/5272951/dumbo">
     <img
       src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
       alt="LinkedIn">
   </a>
+  
   <a href="https://stackoverflow.com/users/5272951/dumbo">
     <img
       src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
@@ -273,4 +296,5 @@ USED:
 4. GitHub streak: https://github-readme-streak-stats.herokuapp.com/demo/
 5. GitHub trophy: https://github.com/ryo-ma/github-profile-trophy
 6. Badges: https://shields.io
+7. Titles: https://capsule-render.vercel.app/
 -->
