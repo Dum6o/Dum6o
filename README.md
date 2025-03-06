@@ -234,10 +234,10 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=Dum6o&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=71A5FD&icon_color=71A5FD&text_color=71A5FD&bg_color=ffffff&hide=stars"
     alt="Dum6o GitHub Stats">
-    
+
   <a href="https://stackoverflow.com/users/5272951/dumbo">
       <img
-        src="https://stackoverflow-card.vercel.app/?userID=5272951"
+        src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=5272951"
         alt="Dumbo StackOverflow">
   </a>
 
@@ -259,19 +259,25 @@
   
   <a href="https://www.linkedin.com/in/edvardasjusius/">
     <img
-      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin"
+      src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&cacheSeconds=3600"
       alt="LinkedIn">
   </a>
   
   <a href="https://stackoverflow.com/users/5272951/dumbo">
     <img
-      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow"
+      src="https://img.shields.io/badge/StackOverflow--_.svg?style=social&logo=stackoverflow&cacheSeconds=3600"
       alt="LinkedIn">
   </a>
   
   <a href="https://stackoverflow.com/users/5272951/dumbo">
     <img
-      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github"
+      src="https://img.shields.io/badge/GitHub--_.svg?style=social&logo=github&cacheSeconds=3600"
+      alt="LinkedIn">
+  </a>
+
+  <a href="https://edvardas.jusius.eu">
+    <img
+      src="https://img.shields.io/badge/Portfolio--_?style=social&logo=files&logoColor=black&cacheSeconds=3600"
       alt="LinkedIn">
   </a>
 
@@ -282,8 +288,6 @@
     alt="Profile Views">
 
   <br>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=217pjpidwuajatg6niznkwubi&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=217pjpidwuajatg6niznkwubi&redirect=true)
 </div>
 
 <!-- FOOTER -->
