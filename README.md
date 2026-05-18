@@ -193,7 +193,7 @@
     alt="Trello">
     &nbsp;&nbsp;&nbsp;&nbsp;
   <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/512px-IntelliJ_IDEA_Icon.svg.png"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg"
     width="60px"
     alt="IntelliJ">
     &nbsp;&nbsp;&nbsp;&nbsp;
